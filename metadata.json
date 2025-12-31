@@ -1,0 +1,8 @@
+{
+  "name": "Stride AI",
+  "description": "A next-generation student task manager that uses behavioral psychology and Gemini AI to optimize productivity, habits, and mental well-being.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
